@@ -14,8 +14,9 @@ class Car extends Vehicle{
 
 }
 let myCar = new Car("Toyota","Corolla ");
-console.log(myCar.start());
-console.log(myCar.drive());
+// console.log(myCar.start());
+// console.log(myCar.drive());
 
 let veicle1 = new Vehicle("Honda","Civic");
-console.log(veicle1.make);
+// console.log(veicle1.make);
+
