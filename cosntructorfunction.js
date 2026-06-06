@@ -4,7 +4,7 @@ function Person(name, age) {
 
 }
 let person = new Person("sahan", 21);
-// console.log(person.name);
+console.log(person.name);
 
 //challenge 2
 
@@ -15,7 +15,7 @@ function Tea(type){
     };
 }
 let lemonTea = new Tea("lemon tea");
-// console.log(lemonTea.describe());
+console.log(lemonTea.describe());
 
 function Animal(species){
     this.species = species;
